@@ -1,0 +1,51 @@
+﻿.menu
+{
+    width:100%;
+  
+    background-color:black;
+}
+.menu ul 
+{
+    list-style: none;
+    margin-top: 2%;
+}
+.menu ul li 
+{
+    background-color:black;
+    float:right;
+    color:white;
+    font-size:20px;
+    position:relative;
+    font-family: ink free;
+    text-align: center;
+    
+}
+.menu ul li:hover
+{
+    background: black;
+}
+
+.menu ul ul 
+{
+    display:none;
+}
+.menu ul li:hover >ul
+{
+    display:block;
+}
+.menu ul ul ul 
+{
+    margin-left: 170px;
+    top:0;
+    position:absolute;
+}
+a 
+{
+    color:white;
+}
+
+
+.active 
+{
+    background-color: black;
+}

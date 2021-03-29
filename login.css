@@ -1,0 +1,71 @@
+﻿  
+        .textbox {
+            
+            border-radius: 10px;
+        }
+
+        footer {
+            width: 100%;
+            text-align: center;
+            background-color:black;
+            color: white;
+            font-family: Calibri;
+        }
+        h2{
+            font-family:'MV Boli';
+            background-color:black;
+            color:white;
+        }
+        .login{
+            background-color:black;
+            color:white;  
+           height:130px;
+        }
+        caption{
+             background-color:black;
+            color:white;  
+            font-family:Calibri;
+        }
+        .auto-style1 {
+            height: 28px;
+        }
+        a{
+           
+            color:Highlight;
+            font-size:12px;
+            font-family:Calibri;
+        }
+        .auto-style2 {
+            height: 43px;
+        }
+        
+        
+        .auto-style3 {
+            width: 659px;
+        }
+        
+        
+        .auto-style4 {
+            left: 274px;
+            top: -3px;
+        }
+        .loginbtn{
+            background-color:limegreen;color:white;
+            font-size:14px;
+        }
+        
+        
+        .auto-style5 {
+            margin-top: 0px;
+            background-color:#262626;
+          width:100%
+          
+        }
+        
+        
+        .auto-style6 {
+            background-color: limegreen;
+            color: white;
+            font-size: 14px;
+            width: 69px;
+        }
